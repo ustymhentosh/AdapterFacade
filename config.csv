@@ -1,0 +1,4 @@
+service, api_kay
+ABSTRACT_READER,[your_api_key_to https://app.abstractapi.com/]
+OPEN_AI_READER,[your_api_key_to https://platform.openai.com/]
+BRAND_FETETCH,[your_api_key_to https://brandfetch.com/]
